@@ -11,3 +11,5 @@
 5.[For Loop](https://github.com/Shad-Sheikh/HackerRank-CPP/blob/main/ALL%20PROGRAMS/For%20Loop)
 
 6.[Functions](https://github.com/Shad-Sheikh/HackerRank-CPP/tree/main/ALL%20PROGRAMS)
+
+7.[Pointer]()

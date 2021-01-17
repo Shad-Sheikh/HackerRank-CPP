@@ -13,3 +13,5 @@
 6.[Functions](https://github.com/Shad-Sheikh/HackerRank-CPP/tree/main/ALL%20PROGRAMS)
 
 7.[Pointer](https://github.com/Shad-Sheikh/HackerRank-CPP/blob/main/ALL%20PROGRAMS/Pointer)
+
+8.[Arrays Introduction]()

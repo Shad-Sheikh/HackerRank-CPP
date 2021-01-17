@@ -14,4 +14,4 @@
 
 7.[Pointer](https://github.com/Shad-Sheikh/HackerRank-CPP/blob/main/ALL%20PROGRAMS/Pointer)
 
-8.[Arrays Introduction]()
+8.[Arrays Introduction](https://github.com/Shad-Sheikh/HackerRank-CPP/blob/main/ALL%20PROGRAMS/Arrays%20Introduction)
